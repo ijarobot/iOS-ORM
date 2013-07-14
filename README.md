@@ -3,13 +3,13 @@ iOS-ORM
 
 
 写sql你很烦？
-但缓存、本地收藏、本地数据…这些功能都需要使用sqlite需要写sql.
+但缓存、本地收藏、本地数据…这些功能都需要使用sqlite需要建库、建表、写sql.
 
-iOS-ORM,iOS上的对象关系映射。让你不需要关心db、table、sql，你只需要关心model即可
+iOS-ORM,iOS上的对象关系映射。让你不需要关心创建db、创建table、sql，你只需要关心model即可
 
 iOS-ORM,封装了普通的增、删、改、查功能。
 
-你只需要这样：
+你只需要这样，不需要写一行sql：
 >
     UserDao *userDao = [[[UserDao alloc] init] autorelease];
     for (int x = 0; x < 20; x++) {
