@@ -1,7 +1,6 @@
 iOS-ORM
 =======
 
-iOS-ORM
 
 写sql你很烦？
 但缓存、本地收藏、本地数据…这些功能都需要使用sqlite需要写sql.
@@ -24,6 +23,6 @@ iOS-ORM,封装了普通的增、删、改、查功能。
     
 
 
-就能未完成…如下图
+就能完成…如下图
 
 ![dbresult icon](https://github.com/ijarobot/iOS-ORM/blob/master/iOS-ORM/Screenshot/67599EFE-DDBC-448D-8715-3A0BAE857031.png?raw=true)
