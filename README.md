@@ -26,4 +26,4 @@ iOS-ORM,封装了普通的增、删、改、查功能。
 
 就能未完成…如下图
 
-![dbresult icon](https://github.com/ijarobot/iOS-ORM/blob/master/iOS-ORM/Screenshot/67599EFE-DDBC-448D-8715-3A0BAE857031.png)
+![dbresult icon](https://github.com/ijarobot/iOS-ORM/blob/master/iOS-ORM/Screenshot/67599EFE-DDBC-448D-8715-3A0BAE857031.png?raw=true)
